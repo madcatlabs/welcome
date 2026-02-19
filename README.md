@@ -54,13 +54,6 @@ We believe in giving back to the community. Our open source contributions focus 
 - **Benchmarks** — Evaluation frameworks for LLM performance
 - **Templates** — Production-ready starter kits for AI applications
 
-## Team
-
-| Name | Role |
-|---|---|
-| **Ertunç Ererdi** | Founder |
-| **Mücahit Akın** | AI Solution Developer |
-| **Onur Altuntaş** | Product Manager |
 
 ## Contact
 
